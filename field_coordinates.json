@@ -1,0 +1,16 @@
+{
+    "certificate_number": {"x": 12830127, "y": 4762420, "width": 8896256, "height": 896198},
+    "batch_number": {"x": 16298144, "y": 5937344, "width": 2518784, "height": 889501},
+    "certification_body": {"x": 1795534, "y": 8115765, "width": 27904933, "height": 2299846},
+    "applicant": {"x": 1795534, "y": 12116885, "width": 27904933, "height": 2299847},
+    "manufacturer": {"x": 1795534, "y": 15724203, "width": 27904933, "height": 1753746},
+    "product_description": {"x": 1795534, "y": 18974038, "width": 27904933, "height": 2299846},
+    "tn_ved_codes": {"x": 7264412, "y": 22913934, "width": 22436055, "height": 661546},
+    "technical_regulation": {"x": 1795534, "y": 24957455, "width": 27904933, "height": 661546},
+    "test_reports": {"x": 1795534, "y": 30072120, "width": 27904933, "height": 2845946},
+    "standards_and_conditions": {"x": 1795534, "y": 35943489, "width": 27904933, "height": 2593608},
+    "issue_date": {"x": 7674783, "y": 38559341, "width": 5069413, "height": 661546},
+    "expiry_date": {"x": 14035539, "y": 38559340, "width": 5069412, "height": 661546},
+    "expert_name": {"x": 21011851, "y": 40160844, "width": 8634113, "height": 661546},
+    "head_of_certification_body": {"x": 21011850, "y": 41562520, "width": 8634113, "height": 661546}
+}
